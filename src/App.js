@@ -1,25 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import Footer from "./components/Footer";
+import {Helmet} from "react-helmet-async";
+import {BrowserRouter, Link} from 'react-router-dom'
+import Paged from "./components/Paged";
+import React from "react";
+import Navigation from "./components/Navigation/Navigation";
+import {useDimension} from "./components/hook/WindowDimension";
+import MobileNavigation from "./components/Navigation/MobileNavigation";
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+    const dimension = useDimension()
+     return (
+          <div className="App">
+              <Helmet><title>Personal Portfolio</title></Helmet>
+              <BrowserRouter>
+                  { dimension < 702 ? <MobileNavigation/> :<Navigation/>}
+
+                 <header className="portfolio__header"></header>
+                 <Paged/>
+                 <Footer/>
+              </BrowserRouter>
+          </div>
+     );
 }
 
 export default App;
