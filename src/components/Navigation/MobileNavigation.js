@@ -33,7 +33,7 @@ const MobileNavigation = () => {
     }
     return (
         <div className='portfolio__navigation_mobile' ref={ref}>
-            <img src={menu} onClick={handlerMenu}/>
+            <img src={menu} onClick={handlerMenu} alt='mobile'/>
             <div className={mobileDisplay}>
                 <Link to='/'>Главная</Link>
                 <Link to='/testing'>Тестирование</Link>

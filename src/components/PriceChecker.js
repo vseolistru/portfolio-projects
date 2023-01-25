@@ -5,14 +5,14 @@ const PriceChecker = () => {
     const [currentBTCPrice, setBTC] = useState('')
     const [currentETHPrice, setETH] = useState(0)
 
-    useEffect(()=>{
-        const fetchBTC = () => {
-            fetch('https://api.coincap.io/v2/assets/bitcoin')
+    useEffect(() => {
+        const fetchBTC = async () => {
+            await fetch('https://api.coincap.io/v2/assets/bitcoin')
                 .then(res=>res.json())
                 .then(data=>setBTC(data))
         }
-        const fetchETH = () => {
-            fetch('https://api.coincap.io/v2/assets/ethereum')
+        const fetchETH = async () => {
+            await fetch('https://api.coincap.io/v2/assets/ethereum')
                 .then(res=>res.json())
                 .then(data=>setETH(data))
         }

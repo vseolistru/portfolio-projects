@@ -1,7 +1,7 @@
 import './App.css';
 import Footer from "./components/Footer";
 import {Helmet} from "react-helmet-async";
-import {BrowserRouter, Link} from 'react-router-dom'
+import {BrowserRouter} from 'react-router-dom'
 import Paged from "./components/Paged";
 import React from "react";
 import Navigation from "./components/Navigation/Navigation";

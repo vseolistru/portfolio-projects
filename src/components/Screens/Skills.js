@@ -1,5 +1,5 @@
-import React, {useEffect, useState} from 'react';
-import {skills, tools} from "../../stub";
+import React, { useState} from 'react';
+import {skills} from "../../stub";
 import {Helmet} from "react-helmet-async";
 import SideBar from "../SideBar";
 import PriceChecker from "../PriceChecker";

@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import {Helmet} from "react-helmet-async";
-import {testing, tools} from "../../stub";
+import {tools} from "../../stub";
 import SideBar from "../SideBar";
 import PriceChecker from "../PriceChecker";
 import {useDimension} from "../hook/WindowDimension";

@@ -1,4 +1,4 @@
-import React, {useEffect, useRef} from 'react';
+import React from 'react';
 import ContentStart from "../ContentStart";
 import ContentShort from "../ContentShort";
 import ChatForm from "../ChatForm";
