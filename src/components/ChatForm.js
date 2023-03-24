@@ -13,22 +13,22 @@ const ChatForm = () => {
         }
         setPosts([...posts, newPost]);
         setMessage('')           
-        console.log(backEndPosts);
+        console.log(posts);
 
-        let formData = new FormData()
-        formData.append('message',message)
-        const res = await fetch('http://vseolif8.beget.tech/createpost', {
-            method: 'POST',
-            body: formData
-        })
+    //     let formData = new FormData()
+    //     formData.append('message',message)
+    //     const res = await fetch('http://vseolif8.beget.tech/createpost', {
+    //         method: 'POST',
+    //         body: formData
+    //     })
 
-        // 'http://localhost/server/createpost'
-        const localhost = 'http://localhost/server/getposts';
-        const remoteServer = 'http://vseolif8.beget.tech/getposts';
+    //     // 'http://localhost/server/createpost'
+    //     const localhost = 'http://localhost/server/getposts';
+    //     const remoteServer = 'http://vseolif8.beget.tech/getposts';
 
-         await fetch(remoteServer)
-            .then(response => response.json())
-            .then(data=>setBackEndPosts(data))
+    //      await fetch(remoteServer)
+    //         .then(response => response.json())
+    //         .then(data=>setBackEndPosts(data))
 
     }           
     
@@ -39,7 +39,7 @@ const ChatForm = () => {
         <>
             <div className='portfolio__content-item textarea'>
                 <div className='portfolio__posts'>
-                    {res.map ((item, idx) => <p key={idx}>{item.message}</p>)}
+                    {posts.map ((item, idx) => <p key={idx}>{item.message}</p>)}
                 </div>
                 <form>
                     <input type='text'
