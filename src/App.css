@@ -340,7 +340,7 @@ footer > p {
 
     .mobile-display {
         position: absolute;
-        left:-780px;
+        left:-820px;
         transition: 0.86s;
     }
 
@@ -487,7 +487,7 @@ footer > p {
     display: block;
     position: relative;
     align-items: center;
-    left: 67px;
+    left: 369px;
     float: left;
     background-color: #f3f3f3;
     color: rgba(5, 4, 4, 0.64);
