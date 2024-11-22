@@ -16,19 +16,17 @@ const ContentShort = () => {
                                <li>{skillsCut.colFour}</li>
                                <li>{skillsCut.colFive}</li>
                                <li>{skillsCut.colSix}</li>
-
+                               <li>{skillsCut.colSeven}</li>
                            </ul>
                        </div>
                         <div>
                             <ul>
-                                <li>{skillsCut.colSeven}</li>
                                 <li>{skillsCut.colEight}</li>
                                 <li>{skillsCut.colNine}</li>
                                 <li>{skillsCut.colTen}</li>
                                 <li>{skillsCut.colEleven}</li>
                                 <li>{skillsCut.colTwelve}</li>
                                 <li>{skillsCut.colThree}</li>
-
                             </ul>
                         </div>
                     </div>

@@ -7,9 +7,6 @@ import PriceChecker from "../PriceChecker";
 
 const Main = () => {
 
-
-
-
     return (
         <main >
             <div className="portfolio__body">

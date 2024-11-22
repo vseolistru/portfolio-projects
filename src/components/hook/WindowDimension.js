@@ -5,7 +5,6 @@ export const useDimension = () => {
 
     const handleResize = () => {
         setDimension(window.innerWidth)
-
     }
     useEffect(() => {
         window.addEventListener("resize", handleResize);

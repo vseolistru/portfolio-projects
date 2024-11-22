@@ -15,9 +15,9 @@ const MobileNavigation = () => {
                 setMobile('mobile-display')
             }
         }
-        document.addEventListener("mousedown", handleClick)
+        document.addEventListener("onClick", handleClick)
         return ()=>{
-            document.removeEventListener("mousedown", handleClick)
+            document.removeEventListener("onClick", handleClick)
         }
     },[ref])
 
@@ -36,11 +36,17 @@ const MobileNavigation = () => {
             <img src={menu} onClick={handlerMenu} alt='mobile'/>
             <div className={mobileDisplay}>
                 <Link to='/'>Главная</Link>
-                <Link to='/testing'>Тестирование</Link>
-                <Link to='/development'>Разработка</Link>
-                <Link to='/tools'>Инструменты</Link>
-                {/*<Link to='/contact'>Контакты</Link>*/}
-
+                <Link to='/england_league' onClick={handlerMenu}>АПЛ</Link>
+                <Link to='/spain_league' onClick={handlerMenu}>ЛаЛига</Link>
+                <Link to='/germany_league' onClick={handlerMenu}>БундесЛига</Link>
+                <Link to='/italy_league' onClick={handlerMenu}>СерияА</Link>
+                <Link to='/france_league' onClick={handlerMenu}>Лига1Фр</Link>
+                <Link to='/portugal_league' onClick={handlerMenu}>Примейра</Link>
+                <Link to='/championship_league' onClick={handlerMenu}>Чемпионшип</Link>
+                <Link to='/segundo_league' onClick={handlerMenu}>Сегунда</Link>
+                <Link to='/germany_b_league' onClick={handlerMenu}>Бундес2</Link>
+                <Link to='/italy_b_league' onClick={handlerMenu}>СерияБ</Link>
+                <Link to='/france_b_league' onClick={handlerMenu}>Лига2Фр</Link>
             </div>
         </div>
     );

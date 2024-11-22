@@ -10,7 +10,6 @@ import MobileNavigation from "./components/Navigation/MobileNavigation";
 
 
 function App() {
-
     const dimension = useDimension()
      return (
           <div className="App">
