@@ -220,7 +220,7 @@
 
 footer {
     display: flex;
-    background-color: #505050;
+    background-color: #040b3d;
     min-height: 200px;
     margin: 50px 0;
     color: #fff;
@@ -468,7 +468,7 @@ footer > p {
     .portfolio__content_game_present{
     display: flex;
     justify-content: center;
-    background-color: rgba(0, 0, 0, 0.74);
+    background-color: #03071e;
     color: #E5E5E5;
     padding: 10px 50px 20px 50px;
     text-decoration: underline;
@@ -490,7 +490,7 @@ footer > p {
     left: 369px;
     float: left;
     background-color: #f3f3f3;
-    color: rgba(5, 4, 4, 0.64);
+    color: #03071e;
     padding: 10px 0 10px 10px;
     font-size: 13px;
     text-decoration: none;
@@ -508,6 +508,12 @@ footer > p {
 
 .portfolio__content_game_present_item label {
     display: block;
+}
+.portfolio__posts {
+    display: none;
+}
+.portfolio__content-item {
+    display: none;
 }
 
     .portfolio__navigation_mobile img {

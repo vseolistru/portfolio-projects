@@ -35,7 +35,7 @@ const MobileNavigation = () => {
         <div className='portfolio__navigation_mobile' ref={ref}>
             <img src={menu} onClick={handlerMenu} alt='mobile'/>
             <div className={mobileDisplay}>
-                <Link to='/'>Главная</Link>
+                <Link to='/' onClick={handlerMenu}>Главная</Link>
                 <Link to='/england_league' onClick={handlerMenu}>АПЛ</Link>
                 <Link to='/spain_league' onClick={handlerMenu}>ЛаЛига</Link>
                 <Link to='/germany_league' onClick={handlerMenu}>БундесЛига</Link>
