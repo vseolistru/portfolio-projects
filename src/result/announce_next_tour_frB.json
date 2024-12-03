@@ -54,7 +54,9 @@
         "total_predict": {
           "host_score_one": true,
           "host_score_2_risk": true,
-          "both_score": "not-recommended"
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {
@@ -156,7 +158,9 @@
         "total_predict": {
           "host_score_one": "not-recommended",
           "host_score_2": "not-recommended",
-          "both_score": "not-recommended"
+          "both_score": "not-recommended",
+          "host_lower_two_risk": true,
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {
@@ -270,7 +274,9 @@
         "total_predict": {
           "host_score_one": true,
           "host_score_2": "not-recommended",
-          "both_score": "not-recommended"
+          "both_score_risk": true,
+          "host_lower_two_risk": "not-recommended",
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {
@@ -380,7 +386,9 @@
         "total_predict": {
           "host_score_one": true,
           "host_score_2": true,
-          "both_score": "not-recommended"
+          "both_score": "not-recommended",
+          "guest_lower_two_risk": true,
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {
@@ -486,7 +494,9 @@
         "total_predict": {
           "host_score_one": "not-recommended",
           "host_score_2": "not-recommended",
-          "both_score": "not-recommended"
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {
@@ -592,7 +602,9 @@
         "total_predict": {
           "host_score_one": true,
           "host_score_2": true,
-          "both_score": "not-recommended"
+          "both_score": "not-recommended",
+          "guest_lower_two_risk": true,
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {
@@ -702,7 +714,9 @@
         "total_predict": {
           "host_score_one": true,
           "host_score_2": "not-recommended",
-          "both_score": "not-recommended"
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {
@@ -815,7 +829,9 @@
         "total_predict": {
           "guest_score_one": true,
           "host_score_2": "not-recommended",
-          "both_score": "not-recommended"
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {
@@ -925,7 +941,9 @@
         "total_predict": {
           "host_score_one": true,
           "host_score_2": "not-recommended",
-          "both_score": "not-recommended"
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "total_lower_four": "not-recommended"
         },
         "history_host": [
           {

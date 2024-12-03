@@ -127,7 +127,7 @@ const InfoRender = ({events}) => {
                         </span>
                         : null
                 }
-                                {
+                {
                     events.commands.total_predict.both_score_risk
                         ? <span>
                             <label>
@@ -135,6 +135,41 @@ const InfoRender = ({events}) => {
                             </label>
                         </span>
                         : null
+                }
+            </p>
+            <p>
+                Вероятная ставка 4:
+                {
+                    events.commands.total_predict.host_lower_two_risk
+                        ? <span>
+                            <label>
+                                Хозяева не забьют 2 с риском {events.commands.total_predict.host_lower_two_risk.toString()}
+                            </label>
+                        </span>
+                        : null
+
+                }
+                {
+                    events.commands.total_predict.guest_lower_two_risk
+                        ? <span>
+                            <label>
+                                Гости не забьют 2 с риском {events.commands.total_predict.guest_lower_two_risk.toString()}
+                            </label>
+                        </span>
+                        : null
+                }
+            </p>
+            <p>
+                Вероятная ставка 5:
+                {
+                    events.commands.total_predict.total_lower_four
+                        ? <span>
+                            <label>
+                                В матче меньше 4 гола {events.commands.total_predict.total_lower_four.toString()}
+                            </label>
+                        </span>
+                        : null
+
                 }
             </p>
         </div>
