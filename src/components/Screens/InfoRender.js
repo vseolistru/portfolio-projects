@@ -28,6 +28,8 @@ const InfoRender = ({events}) => {
                 Домашние матчи (Хозяева): {' '}
                 <span>
                     <label>
+                        | {events.commands.history_host[events.commands.history_host.length - 4].score}
+                        {' '}- {events.commands.history_host[events.commands.history_host.length - 4].un_score} | {' '}
                         | {events.commands.history_host[events.commands.history_host.length - 3].score}
                         {' '}- {events.commands.history_host[events.commands.history_host.length - 3].un_score} | {' '}
                         {events.commands.history_host[events.commands.history_host.length - 2].score}
@@ -40,6 +42,8 @@ const InfoRender = ({events}) => {
                 {' '} Гостевые матчи (Гости): {' '}
                 <span>
                     <label>
+                        | {events.commands.history_guest[events.commands.history_guest.length - 4].score}
+                        {' '} - {events.commands.history_guest[events.commands.history_guest.length - 4].un_score} |
                         | {events.commands.history_guest[events.commands.history_guest.length - 3].score}
                         {' '} - {events.commands.history_guest[events.commands.history_guest.length - 3].un_score} | {' '}
                         {events.commands.history_guest[events.commands.history_guest.length - 2].score}
