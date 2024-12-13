@@ -49,6 +49,10 @@ export const news = [
         content: 'СерияБ',
         link: '/italy_b_league'
     },
+        {
+        content: 'Холландия',
+        link: '/holland_league'
+    },
     {
         content: 'Лига2Фр',
         link: '/france_b_league'

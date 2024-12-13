@@ -12,6 +12,7 @@ import SpainSecondary from "./Screens/SpainSecondary";
 import GermanySecondary from "./Screens/GermanySecondary";
 import FranceSecondary from "./Screens/FranceSecondary";
 import ItalySecondary from "./Screens/ItalySecondary";
+import HollandPrimer from "./Screens/HollandPrimer";
 import en_primary_data from "../result/announce_next_tour_en.json"
 import es_primary_data from "../result/announce_next_tour_es.json"
 import ger_primary_data from "../result/announce_next_tour_ger.json"
@@ -23,6 +24,7 @@ import es_secondary_data from "../result/announce_next_tour_esB.json"
 import ger_secondary_data from "../result/announce_next_tour_gerB.json"
 import fr_secondary_data from "../result/announce_next_tour_frB.json"
 import ita_secondary_data from "../result/announce_next_tour_itaB.json"
+import hol_primary_data from "../result/announce_next_tour_hol.json"
 
 const Paged = () => {
     return (
@@ -39,6 +41,7 @@ const Paged = () => {
             <Route path='/germany_b_league' element={<GermanySecondary data={ger_secondary_data}/>}/>
             <Route path='/france_b_league' element={<FranceSecondary data={fr_secondary_data}/>}/>
             <Route path='/italy_b_league' element={<ItalySecondary data={ita_secondary_data}/>}/>
+            <Route path='/holland_league' element={<HollandPrimer data={hol_primary_data}/>}/>
         </Routes>
     );
 };

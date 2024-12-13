@@ -46,6 +46,7 @@ const MobileNavigation = () => {
                 <Link to='/segundo_league' onClick={handlerMenu}>Сегунда</Link>
                 <Link to='/germany_b_league' onClick={handlerMenu}>Бундес2</Link>
                 <Link to='/italy_b_league' onClick={handlerMenu}>СерияБ</Link>
+                <Link to='/holland_league' onClick={handlerMenu}>Холландия</Link>
                 <Link to='/france_b_league' onClick={handlerMenu}>Лига2Фр</Link>
             </div>
         </div>

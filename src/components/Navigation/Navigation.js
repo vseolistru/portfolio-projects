@@ -16,6 +16,7 @@ const Navigation = () => {
                 <Link to='/segundo_league'>Сегунда</Link>
                 <Link to='/germany_b_league'>Бундес2</Link>
                 <Link to='/italy_b_league'>СерияБ</Link>
+                <Link to='/holland_league'>Холандия</Link>
                 <Link to='/france_b_league'>Лига2Фр</Link>
             </div>
         </div>
