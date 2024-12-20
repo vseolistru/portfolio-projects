@@ -166,10 +166,10 @@ const InfoRender = ({events}) => {
             <p>
                 Вероятная ставка 5:
                 {
-                    events.commands.total_predict.total_lower_four
+                    events.commands.total_predict.both_score_last
                         ? <span>
                             <label>
-                                В матче меньше 4 гола {events.commands.total_predict.total_lower_four.toString()}
+                                Обе забьют т.к не забили в прошлой игре {events.commands.total_predict.both_score_last.toString()}
                             </label>
                         </span>
                         : null

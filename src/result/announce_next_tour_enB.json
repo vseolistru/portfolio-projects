@@ -1,1 +1,1610 @@
-{"data": [{"league_name": "en-b", "game": {"game": "ДербиКаунти-Портсмут", "date": "13.12, 23:00", "host_position": "17", "guest_position": "21"}, "commands": {"host": "ДербиКаунти", "guest": "Портсмут", "host_analytics_data": {"host_data": {"host_total_games_score": 1.4444444444444444, "host_total_game_lost": 1.0, "host_guest_total_score": 0.8181818181818182, "host_guest_total_lost": 1.5454545454545454, "host_total_efficiency": 1.4444444444444444, "host_total_all_efficiency": 0.8461538461538461, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 + ", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_guest_game": 0, "under_last_score_by_host_game": 1, "last_score_by_host_game": 1}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 1.3333333333333333, "guest_total_lost": 2.2222222222222223, "guest_total_host_score": 1.0, "guest_total_host_lost": 1.1111111111111112, "guest_total_efficiency": 0.6, "guest_total_all_efficiency": 1.05, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 -", "should_lost_1": true, "should_lost_1.5": true, "prediction_lost": "lost 1.5 +", "last_score_by_host_game": 0, "under_last_score_by_guest_game": 0, "last_score_by_guest_game": 2}}, "total_predict": {"host_score_one": true, "host_score_2": "not-recommended", "both_score": "not-recommended", "host_lower_two_risk": "not-recommended", "total_lower_four": "not-recommended"}, "history_host": [{"score": 1, "un_score": 0}, {"score": 3, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 2, "un_score": 3}, {"score": 2, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 2}, {"score": 1, "un_score": 2}], "history_guest": [{"score": 3, "un_score": 3}, {"score": 2, "un_score": 2}, {"score": 2, "un_score": 1}, {"score": 6, "un_score": 1}, {"score": 1, "un_score": 2}, {"score": 2, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 0}, {"score": 2, "un_score": 2}]}}, {"league_name": "en-b", "game": {"game": "БристольСити-КуинзПаркРейнджерс", "date": "14.12, 15:30", "host_position": "11", "guest_position": "19"}, "commands": {"host": "БристольСити", "guest": "КуинзПаркРейнджерс", "host_analytics_data": {"host_data": {"host_total_games_score": 1.4444444444444444, "host_total_game_lost": 1.0, "host_guest_total_score": 1.0909090909090908, "host_guest_total_lost": 1.4545454545454546, "host_total_efficiency": 1.4444444444444444, "host_total_all_efficiency": 1.0, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 + ", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_guest_game": 1, "under_last_score_by_host_game": 0, "last_score_by_host_game": 4}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 0.7777777777777778, "guest_total_lost": 1.1111111111111112, "guest_total_host_score": 1.1818181818181819, "guest_total_host_lost": 1.4545454545454546, "guest_total_efficiency": 0.7, "guest_total_all_efficiency": 0.625, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_host_game": 2, "under_last_score_by_guest_game": 2, "last_score_by_guest_game": 0}}, "total_predict": {"host_score_one": true, "host_score_2": "not-recommended", "both_score": "not-recommended", "guest_lower_two_risk": true, "total_lower_four": "not-recommended"}, "history_host": [{"score": 4, "un_score": 3}, {"score": 1, "un_score": 1}, {"score": 2, "un_score": 1}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 2}, {"score": 0, "un_score": 1}, {"score": 4, "un_score": 0}], "history_guest": [{"score": 2, "un_score": 2}, {"score": 1, "un_score": 2}, {"score": 1, "un_score": 1}, {"score": 2, "un_score": 0}, {"score": 2, "un_score": 0}, {"score": 0, "un_score": 0}, {"score": 2, "un_score": 0}, {"score": 0, "un_score": 2}, {"score": 0, "un_score": 0}]}}, {"league_name": "en-b", "game": {"game": "КовентриСити-ХаллСити", "date": "14.12, 15:30", "host_position": "16", "guest_position": "24"}, "commands": {"host": "КовентриСити", "guest": "ХаллСити", "host_analytics_data": {"host_data": {"host_total_games_score": 1.7777777777777777, "host_total_game_lost": 1.6666666666666667, "host_guest_total_score": 0.8181818181818182, "host_guest_total_lost": 1.2727272727272727, "host_total_efficiency": 1.0666666666666667, "host_total_all_efficiency": 0.8620689655172413, "should_score_1": true, "should_score_1.5": true, "should_score_2": false, "prediction_score": "total - 1.5 -", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_guest_game": 0, "under_last_score_by_host_game": 2, "last_score_by_host_game": 2}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 1.0, "guest_total_lost": 1.6666666666666667, "guest_total_host_score": 0.8181818181818182, "guest_total_host_lost": 1.1818181818181819, "guest_total_efficiency": 0.6, "guest_total_all_efficiency": 0.6923076923076923, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_host_game": 1, "under_last_score_by_guest_game": 0, "last_score_by_guest_game": 1}}, "total_predict": {"host_score_one": true, "host_score_2": "not-recommended", "both_score": "not-recommended", "guest_lower_two_risk": true, "total_lower_four": "not-recommended"}, "history_host": [{"score": 3, "un_score": 2}, {"score": 0, "un_score": 1}, {"score": 1, "un_score": 2}, {"score": 3, "un_score": 0}, {"score": 1, "un_score": 2}, {"score": 3, "un_score": 2}, {"score": 1, "un_score": 2}, {"score": 2, "un_score": 2}, {"score": 2, "un_score": 2}], "history_guest": [{"score": 1, "un_score": 1}, {"score": 2, "un_score": 0}, {"score": 1, "un_score": 3}, {"score": 1, "un_score": 3}, {"score": 4, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 3, "un_score": 1}]}}, {"league_name": "en-b", "game": {"game": "ПрестонНортЭнд-ЛидсЮнайтед", "date": "14.12, 15:30", "host_position": "14", "guest_position": "2"}, "commands": {"host": "ПрестонНортЭнд", "guest": "ЛидсЮнайтед", "host_analytics_data": {"host_data": {"host_total_games_score": 1.0, "host_total_game_lost": 0.8888888888888888, "host_guest_total_score": 0.875, "host_guest_total_lost": 2.0, "host_total_efficiency": 1.125, "host_total_all_efficiency": 0.6666666666666666, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": false, "should_lost_1.5": false, "prediction_lost": "not lost", "last_score_by_guest_game": 0, "under_last_score_by_host_game": 0, "last_score_by_host_game": 1}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 1.2222222222222223, "guest_total_lost": 0.8888888888888888, "guest_total_host_score": 2.272727272727273, "guest_total_host_lost": 0.5454545454545454, "guest_total_efficiency": 1.375, "guest_total_all_efficiency": 3.0, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": false, "should_lost_1.5": false, "last_score_by_host_game": 3, "under_last_score_by_guest_game": 4, "last_score_by_guest_game": 0}}, "total_predict": {"guest_score_one": true, "host_score_2": "not-recommended", "both_score": "not-recommended", "host_lower_two_risk": true, "total_lower_four": "not-recommended"}, "history_host": [{"score": 0, "un_score": 2}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 0}, {"score": 3, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 2, "un_score": 2}, {"score": 1, "un_score": 3}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 1}], "history_guest": [{"score": 0, "un_score": 0}, {"score": 0, "un_score": 2}, {"score": 0, "un_score": 2}, {"score": 1, "un_score": 1}, {"score": 2, "un_score": 2}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 3, "un_score": 4}, {"score": 1, "un_score": 0}]}}, {"league_name": "en-b", "game": {"game": "Блэкберн-ЛутонТаун", "date": "14.12, 18:00", "host_position": "5", "guest_position": "15"}, "commands": {"host": "Блэкберн", "guest": "ЛутонТаун", "host_analytics_data": {"host_data": {"host_total_games_score": 1.4444444444444444, "host_total_game_lost": 0.7777777777777778, "host_guest_total_score": 1.0, "host_guest_total_lost": 1.0, "host_total_efficiency": 1.8571428571428572, "host_total_all_efficiency": 1.3529411764705883, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 + ", "should_lost_1": false, "should_lost_1.5": false, "prediction_lost": "not lost", "last_score_by_guest_game": 1, "under_last_score_by_host_game": 0, "last_score_by_host_game": 1}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 0.7777777777777778, "guest_total_lost": 2.3333333333333335, "guest_total_host_score": 1.4545454545454546, "guest_total_host_lost": 1.2727272727272727, "guest_total_efficiency": 0.3333333333333333, "guest_total_all_efficiency": 0.8214285714285714, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": true, "should_lost_1.5": true, "prediction_lost": "lost 1.5 +", "last_score_by_host_game": 2, "under_last_score_by_guest_game": 0, "last_score_by_guest_game": 2}}, "total_predict": {"host_score_one": true, "host_score_2_risk": true, "both_score": "not-recommended", "guest_lower_two_risk": true, "total_lower_four": "not-recommended"}, "history_host": [{"score": 4, "un_score": 2}, {"score": 2, "un_score": 1}, {"score": 3, "un_score": 0}, {"score": 2, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 0}, {"score": 0, "un_score": 2}, {"score": 0, "un_score": 2}, {"score": 1, "un_score": 0}], "history_guest": [{"score": 0, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 1}, {"score": 3, "un_score": 1}, {"score": 2, "un_score": 0}, {"score": 3, "un_score": 2}, {"score": 5, "un_score": 1}, {"score": 3, "un_score": 0}, {"score": 4, "un_score": 2}]}}, {"league_name": "en-b", "game": {"game": "ОксфордЮнайтед-ШеффилдУэнсдей", "date": "14.12, 18:00", "host_position": "20", "guest_position": "12"}, "commands": {"host": "ОксфордЮнайтед", "guest": "ШеффилдУэнсдей", "host_analytics_data": {"host_data": {"host_total_games_score": 1.3, "host_total_game_lost": 1.2, "host_guest_total_score": 0.7777777777777778, "host_guest_total_lost": 2.0, "host_total_efficiency": 1.0833333333333333, "host_total_all_efficiency": 0.6666666666666666, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 -", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_guest_game": 0, "under_last_score_by_host_game": 2, "last_score_by_host_game": 1}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 1.1, "guest_total_lost": 1.5, "guest_total_host_score": 1.2727272727272727, "guest_total_host_lost": 1.4545454545454546, "guest_total_efficiency": 0.7333333333333333, "guest_total_all_efficiency": 0.78125, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_host_game": 0, "under_last_score_by_guest_game": 2, "last_score_by_guest_game": 2}}, "total_predict": {"guest_score_one": true, "host_score_2": "not-recommended", "both_score": "not-recommended", "host_lower_two_risk": "not-recommended", "total_lower_four": "not-recommended"}, "history_host": [{"score": 2, "un_score": 0}, {"score": 3, "un_score": 1}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 2}, {"score": 1, "un_score": 0}, {"score": 2, "un_score": 6}, {"score": 1, "un_score": 1}], "history_guest": [{"score": 4, "un_score": 0}, {"score": 3, "un_score": 0}, {"score": 2, "un_score": 1}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 2}, {"score": 1, "un_score": 2}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 2}, {"score": 1, "un_score": 2}, {"score": 2, "un_score": 2}]}}, {"league_name": "en-b", "game": {"game": "ШеффилдЮнайтед-ПлимутАргайл", "date": "14.12, 18:00", "host_position": "1", "guest_position": "23"}, "commands": {"host": "ШеффилдЮнайтед", "guest": "ПлимутАргайл", "host_analytics_data": {"host_data": {"host_total_games_score": 1.5555555555555556, "host_total_game_lost": 0.2222222222222222, "host_guest_total_score": 1.2, "host_guest_total_lost": 0.7, "host_total_efficiency": 7.0, "host_total_all_efficiency": 2.888888888888889, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 + ", "should_lost_1": false, "should_lost_1.5": false, "prediction_lost": "not lost", "last_score_by_guest_game": 1, "under_last_score_by_host_game": 3, "last_score_by_host_game": 1}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 0.3, "guest_total_lost": 2.7, "guest_total_host_score": 1.7777777777777777, "guest_total_host_lost": 1.4444444444444444, "guest_total_efficiency": 0.1111111111111111, "guest_total_all_efficiency": 0.7307692307692307, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": true, "should_lost_1.5": true, "prediction_lost": "lost 1.5 +", "last_score_by_host_game": 1, "under_last_score_by_guest_game": 1, "last_score_by_guest_game": 0}}, "total_predict": {"host_score_one": true, "host_score_2": true, "both_score": "not-recommended", "guest_lower_two_risk": true, "total_lower_four": "not-recommended"}, "history_host": [{"score": 2, "un_score": 2}, {"score": 1, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 2, "un_score": 0}, {"score": 2, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 3, "un_score": 0}, {"score": 1, "un_score": 0}], "history_guest": [{"score": 4, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 5, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 3, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 6, "un_score": 1}, {"score": 4, "un_score": 0}]}}, {"league_name": "en-b", "game": {"game": "Мидлсбро-Миллуол", "date": "14.12, 18:00", "host_position": "7", "guest_position": "13"}, "commands": {"host": "Мидлсбро", "guest": "Миллуол", "host_analytics_data": {"host_data": {"host_total_games_score": 1.5, "host_total_game_lost": 1.1, "host_guest_total_score": 1.9, "host_guest_total_lost": 1.4, "host_total_efficiency": 1.3636363636363635, "host_total_all_efficiency": 1.36, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 + ", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_guest_game": 1, "under_last_score_by_host_game": 0, "last_score_by_host_game": 3}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 0.875, "guest_total_lost": 1.0, "guest_total_host_score": 1.1818181818181819, "guest_total_host_lost": 0.8181818181818182, "guest_total_efficiency": 0.875, "guest_total_all_efficiency": 1.1111111111111112, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_host_game": 0, "under_last_score_by_guest_game": 1, "last_score_by_guest_game": 1}}, "total_predict": {"host_score_one": true, "host_score_2": "not-recommended", "both_score": "not-recommended", "host_lower_two_risk": "not-recommended", "total_lower_four": "not-recommended"}, "history_host": [{"score": 1, "un_score": 0}, {"score": 2, "un_score": 2}, {"score": 1, "un_score": 1}, {"score": 2, "un_score": 0}, {"score": 0, "un_score": 2}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 3}, {"score": 5, "un_score": 1}, {"score": 0, "un_score": 1}, {"score": 3, "un_score": 1}], "history_guest": [{"score": 4, "un_score": 3}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 0}, {"score": 0, "un_score": 1}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 1}]}}, {"league_name": "en-b", "game": {"game": "СтокСити-КардиффСити", "date": "14.12, 18:00", "host_position": "18", "guest_position": "22"}, "commands": {"host": "СтокСити", "guest": "КардиффСити", "host_analytics_data": {"host_data": {"host_total_games_score": 1.5, "host_total_game_lost": 1.3, "host_guest_total_score": 0.6, "host_guest_total_lost": 1.3, "host_total_efficiency": 1.1538461538461537, "host_total_all_efficiency": 0.8076923076923077, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 + ", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_guest_game": 1, "under_last_score_by_host_game": 0, "last_score_by_host_game": 0}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 0.6666666666666666, "guest_total_lost": 1.7777777777777777, "guest_total_host_score": 1.1, "guest_total_host_lost": 1.4, "guest_total_efficiency": 0.375, "guest_total_all_efficiency": 0.6071428571428571, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_host_game": 0, "under_last_score_by_guest_game": 1, "last_score_by_guest_game": 2}}, "total_predict": {"host_score_one": true, "host_score_2": "not-recommended", "both_score": "not-recommended", "host_lower_two_risk": "not-recommended", "total_lower_four": "not-recommended"}, "history_host": [{"score": 1, "un_score": 0}, {"score": 1, "un_score": 2}, {"score": 1, "un_score": 3}, {"score": 6, "un_score": 1}, {"score": 1, "un_score": 1}, {"score": 2, "un_score": 2}, {"score": 2, "un_score": 1}, {"score": 1, "un_score": 1}, {"score": 0, "un_score": 0}, {"score": 0, "un_score": 2}], "history_guest": [{"score": 5, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 0}, {"score": 4, "un_score": 1}, {"score": 1, "un_score": 1}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 2, "un_score": 2}]}}, {"league_name": "en-b", "game": {"game": "Уотфорд-ВестБромвич", "date": "15.12, 17:00", "host_position": "8", "guest_position": "6"}, "commands": {"host": "Уотфорд", "guest": "ВестБромвич", "host_analytics_data": {"host_data": {"host_total_games_score": 1.4444444444444444, "host_total_game_lost": 0.4444444444444444, "host_guest_total_score": 1.4, "host_guest_total_lost": 2.1, "host_total_efficiency": 3.25, "host_total_all_efficiency": 1.08, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 + ", "should_lost_1": false, "should_lost_1.5": false, "prediction_lost": "not lost", "last_score_by_guest_game": 1, "under_last_score_by_host_game": 1, "last_score_by_host_game": 0}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 1.5, "guest_total_lost": 0.9, "guest_total_host_score": 0.8, "guest_total_host_lost": 0.5, "guest_total_efficiency": 1.6666666666666667, "guest_total_all_efficiency": 2.3, "should_score_1": true, "should_score_1.5": false, "should_score_2": false, "prediction_score": "score - 1 + ", "should_lost_1": false, "should_lost_1.5": false, "last_score_by_host_game": 2, "under_last_score_by_guest_game": 0, "last_score_by_guest_game": 1}}, "total_predict": {"host_score_one": "not-recommended", "host_score_2": "not-recommended", "both_score": "not-recommended", "host_lower_two_risk": "not-recommended", "total_lower_four": "not-recommended"}, "history_host": [{"score": 3, "un_score": 0}, {"score": 2, "un_score": 1}, {"score": 1, "un_score": 1}, {"score": 2, "un_score": 1}, {"score": 2, "un_score": 1}, {"score": 1, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 0}], "history_guest": [{"score": 1, "un_score": 3}, {"score": 1, "un_score": 2}, {"score": 0, "un_score": 3}, {"score": 3, "un_score": 2}, {"score": 1, "un_score": 1}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 2}, {"score": 0, "un_score": 0}, {"score": 1, "un_score": 1}]}}, {"league_name": "en-b", "game": {"game": "НорвичСити-Бернли", "date": "15.12, 18:00", "host_position": "10", "guest_position": "3"}, "commands": {"host": "НорвичСити", "guest": "Бернли", "host_analytics_data": {"host_data": {"host_total_games_score": 2.7777777777777777, "host_total_game_lost": 1.4444444444444444, "host_guest_total_score": 0.9090909090909091, "host_guest_total_lost": 1.5454545454545454, "host_total_efficiency": 1.9230769230769231, "host_total_all_efficiency": 1.1666666666666667, "should_score_1": true, "should_score_1.5": true, "should_score_2": true, "prediction_score": "total - 1.5 +", "should_lost_1": true, "should_lost_1.5": false, "prediction_lost": "lost 1", "last_score_by_guest_game": 0, "under_last_score_by_host_game": 6, "last_score_by_host_game": 4}}, "guest_analytics_data": {"guest_data": {"guest_total_score": 1.1, "guest_total_lost": 0.4, "guest_total_host_score": 1.3, "guest_total_host_lost": 0.3, "guest_total_efficiency": 2.75, "guest_total_all_efficiency": 4.0, "should_score_1": false, "should_score_1.5": false, "should_score_2": false, "prediction_score": "not_score", "should_lost_1": false, "should_lost_1.5": false, "last_score_by_host_game": 0, "under_last_score_by_guest_game": 1, "last_score_by_guest_game": 2}}, "total_predict": {"host_score_one": "not-recommended", "host_score_2": "not-recommended", "both_score": "not-recommended", "host_lower_two_risk": "not-recommended", "total_lower_four": "not-recommended"}, "history_host": [{"score": 2, "un_score": 2}, {"score": 1, "un_score": 1}, {"score": 4, "un_score": 1}, {"score": 1, "un_score": 1}, {"score": 4, "un_score": 0}, {"score": 3, "un_score": 3}, {"score": 0, "un_score": 2}, {"score": 6, "un_score": 1}, {"score": 4, "un_score": 2}], "history_guest": [{"score": 1, "un_score": 4}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 1}, {"score": 0, "un_score": 0}, {"score": 0, "un_score": 2}, {"score": 1, "un_score": 1}, {"score": 1, "un_score": 0}, {"score": 0, "un_score": 0}, {"score": 0, "un_score": 1}, {"score": 0, "un_score": 2}]}}]}
+{
+  "data": [
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "ЛутонТаун-ДербиКаунти",
+        "date": "20.12, 23:00",
+        "host_position": "19",
+        "guest_position": "14"
+      },
+      "commands": {
+        "host": "ЛутонТаун",
+        "guest": "ДербиКаунти",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.4545454545454546,
+            "host_total_game_lost": 1.2727272727272727,
+            "host_guest_total_score": 0.7,
+            "host_guest_total_lost": 2.3,
+            "host_total_efficiency": 1.1428571428571428,
+            "host_total_all_efficiency": 0.6216216216216216,
+            "should_score_1": true,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "score - 1 + ",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 0,
+            "under_last_score_by_host_game": 1,
+            "last_score_by_host_game": 2
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 0.8181818181818182,
+            "guest_total_lost": 1.5454545454545454,
+            "guest_total_host_score": 1.7,
+            "guest_total_host_lost": 0.9,
+            "guest_total_efficiency": 0.5294117647058824,
+            "guest_total_all_efficiency": 1.4444444444444444,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 4,
+            "under_last_score_by_guest_game": 0,
+            "last_score_by_guest_game": 0
+          }
+        },
+        "total_predict": {
+          "guest_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 1,
+            "un_score": 4
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 4,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "Портсмут-КовентриСити",
+        "date": "21.12, 15:30",
+        "host_position": "22",
+        "guest_position": "15"
+      },
+      "commands": {
+        "host": "Портсмут",
+        "guest": "КовентриСити",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.0,
+            "host_total_game_lost": 1.1111111111111112,
+            "host_guest_total_score": 1.2,
+            "host_guest_total_lost": 2.4,
+            "host_total_efficiency": 0.9,
+            "host_total_all_efficiency": 0.6176470588235294,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 0,
+            "under_last_score_by_host_game": 3,
+            "last_score_by_host_game": 0
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 0.8181818181818182,
+            "guest_total_lost": 1.2727272727272727,
+            "guest_total_host_score": 1.8,
+            "guest_total_host_lost": 1.6,
+            "guest_total_efficiency": 0.6428571428571429,
+            "guest_total_all_efficiency": 0.84375,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 2,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 0
+          }
+        },
+        "total_predict": {
+          "guest_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": true
+        },
+        "history_host": [
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 3
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "ШеффилдУэнсдей-СтокСити",
+        "date": "21.12, 15:30",
+        "host_position": "9",
+        "guest_position": "17"
+      },
+      "commands": {
+        "host": "ШеффилдУэнсдей",
+        "guest": "СтокСити",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.2727272727272727,
+            "host_total_game_lost": 1.4545454545454546,
+            "host_guest_total_score": 1.2727272727272727,
+            "host_guest_total_lost": 1.4545454545454546,
+            "host_total_efficiency": 0.875,
+            "host_total_all_efficiency": 0.875,
+            "should_score_1": true,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "score - 1 -",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 3,
+            "under_last_score_by_host_game": 1,
+            "last_score_by_host_game": 0
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 0.6,
+            "guest_total_lost": 1.3,
+            "guest_total_host_score": 1.5454545454545454,
+            "guest_total_host_lost": 1.3636363636363635,
+            "guest_total_efficiency": 0.46153846153846156,
+            "guest_total_all_efficiency": 0.7666666666666667,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 2,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 1
+          }
+        },
+        "total_predict": {
+          "host_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "guest_lower_two_risk": true,
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 4,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 6
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "ХаллСити-Суонси",
+        "date": "21.12, 15:30",
+        "host_position": "24",
+        "guest_position": "10"
+      },
+      "commands": {
+        "host": "ХаллСити",
+        "guest": "Суонси",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 0.8181818181818182,
+            "host_total_game_lost": 1.1818181818181819,
+            "host_guest_total_score": 1.0,
+            "host_guest_total_lost": 1.7,
+            "host_total_efficiency": 0.6923076923076923,
+            "host_total_all_efficiency": 0.6333333333333333,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 1,
+            "under_last_score_by_host_game": 0,
+            "last_score_by_host_game": 1
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 0.8181818181818182,
+            "guest_total_lost": 0.9090909090909091,
+            "guest_total_host_score": 1.4,
+            "guest_total_host_lost": 1.2,
+            "guest_total_efficiency": 0.9,
+            "guest_total_all_efficiency": 0.9583333333333334,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": false,
+            "should_lost_1.5": false,
+            "last_score_by_host_game": 2,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 2
+          }
+        },
+        "total_predict": {
+          "guest_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": true,
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 4,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "Сандерленд-НорвичСити",
+        "date": "21.12, 18:00",
+        "host_position": "4",
+        "guest_position": "12"
+      },
+      "commands": {
+        "host": "Сандерленд",
+        "guest": "НорвичСити",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.7,
+            "host_total_game_lost": 0.6,
+            "host_guest_total_score": 1.3636363636363635,
+            "host_guest_total_lost": 1.0,
+            "host_total_efficiency": 2.8333333333333335,
+            "host_total_all_efficiency": 1.8823529411764706,
+            "should_score_1": true,
+            "should_score_1.5": true,
+            "should_score_2": false,
+            "prediction_score": "total - 1.5 -",
+            "should_lost_1": false,
+            "should_lost_1.5": false,
+            "prediction_lost": "not lost",
+            "last_score_by_guest_game": 3,
+            "under_last_score_by_host_game": 2,
+            "last_score_by_host_game": 1
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 0.9090909090909091,
+            "guest_total_lost": 1.5454545454545454,
+            "guest_total_host_score": 2.6,
+            "guest_total_host_lost": 1.5,
+            "guest_total_efficiency": 0.5882352941176471,
+            "guest_total_all_efficiency": 1.2,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 1,
+            "under_last_score_by_guest_game": 0,
+            "last_score_by_guest_game": 0
+          }
+        },
+        "total_predict": {
+          "host_score_one": true,
+          "host_score_2_risk": true,
+          "both_score": "not-recommended",
+          "guest_lower_two_risk": true,
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 4,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "КуинзПаркРейнджерс-ПрестонНортЭнд",
+        "date": "21.12, 18:00",
+        "host_position": "18",
+        "guest_position": "16"
+      },
+      "commands": {
+        "host": "КуинзПаркРейнджерс",
+        "guest": "ПрестонНортЭнд",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.1818181818181819,
+            "host_total_game_lost": 1.4545454545454546,
+            "host_guest_total_score": 0.8,
+            "host_guest_total_lost": 1.1,
+            "host_total_efficiency": 0.8125,
+            "host_total_all_efficiency": 0.7777777777777778,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 1,
+            "under_last_score_by_host_game": 3,
+            "last_score_by_host_game": 2
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 0.875,
+            "guest_total_lost": 2.0,
+            "guest_total_host_score": 1.0,
+            "guest_total_host_lost": 0.8888888888888888,
+            "guest_total_efficiency": 0.4375,
+            "guest_total_all_efficiency": 1.0,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": true,
+            "prediction_lost": "lost 1.5 +",
+            "last_score_by_host_game": 1,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 0
+          }
+        },
+        "total_predict": {
+          "host_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": true
+        },
+        "history_host": [
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 4
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 3,
+            "un_score": 3
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "ПлимутАргайл-Мидлсбро",
+        "date": "21.12, 18:00",
+        "host_position": "23",
+        "guest_position": "6"
+      },
+      "commands": {
+        "host": "ПлимутАргайл",
+        "guest": "Мидлсбро",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.7777777777777777,
+            "host_total_game_lost": 1.4444444444444444,
+            "host_guest_total_score": 0.2727272727272727,
+            "host_guest_total_lost": 2.6363636363636362,
+            "host_total_efficiency": 1.2307692307692308,
+            "host_total_all_efficiency": 0.4523809523809524,
+            "should_score_1": true,
+            "should_score_1.5": true,
+            "should_score_2": false,
+            "prediction_score": "total - 1.5 -",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 0,
+            "under_last_score_by_host_game": 2,
+            "last_score_by_host_game": 1
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 1.9,
+            "guest_total_lost": 1.4,
+            "guest_total_host_score": 1.4545454545454546,
+            "guest_total_host_lost": 1.0,
+            "guest_total_efficiency": 1.3571428571428572,
+            "guest_total_all_efficiency": 1.5909090909090908,
+            "should_score_1": true,
+            "should_score_1.5": true,
+            "should_score_2": false,
+            "prediction_score": "total - 1.5 -",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 1,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 1
+          }
+        },
+        "total_predict": {
+          "guest_score_one": true,
+          "guest_score_2_risk": true,
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 2
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 4
+          },
+          {
+            "score": 2,
+            "un_score": 6
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "Миллуол-Блэкберн",
+        "date": "21.12, 18:00",
+        "host_position": "13",
+        "guest_position": "5"
+      },
+      "commands": {
+        "host": "Миллуол",
+        "guest": "Блэкберн",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.1818181818181819,
+            "host_total_game_lost": 0.8181818181818182,
+            "host_guest_total_score": 0.7777777777777778,
+            "host_guest_total_lost": 1.0,
+            "host_total_efficiency": 1.4444444444444444,
+            "host_total_all_efficiency": 1.1111111111111112,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": false,
+            "should_lost_1.5": false,
+            "prediction_lost": "not lost",
+            "last_score_by_guest_game": 0,
+            "under_last_score_by_host_game": 0,
+            "last_score_by_host_game": 0
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 1.0,
+            "guest_total_lost": 1.0,
+            "guest_total_host_score": 1.5,
+            "guest_total_host_lost": 0.7,
+            "guest_total_efficiency": 1.0,
+            "guest_total_all_efficiency": 1.7857142857142858,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 2,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 1
+          }
+        },
+        "total_predict": {
+          "guest_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 2,
+            "un_score": 3
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "Бернли-Уотфорд",
+        "date": "21.12, 18:00",
+        "host_position": "3",
+        "guest_position": "7"
+      },
+      "commands": {
+        "host": "Бернли",
+        "guest": "Уотфорд",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.3,
+            "host_total_game_lost": 0.3,
+            "host_guest_total_score": 1.1818181818181819,
+            "host_guest_total_lost": 0.45454545454545453,
+            "host_total_efficiency": 4.333333333333333,
+            "host_total_all_efficiency": 3.25,
+            "should_score_1": true,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "score - 1 -",
+            "should_lost_1": false,
+            "should_lost_1.5": false,
+            "prediction_lost": "not lost",
+            "last_score_by_guest_game": 2,
+            "under_last_score_by_host_game": 1,
+            "last_score_by_host_game": 0
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 1.4,
+            "guest_total_lost": 2.1,
+            "guest_total_host_score": 1.5,
+            "guest_total_host_lost": 0.5,
+            "guest_total_efficiency": 0.6666666666666666,
+            "guest_total_all_efficiency": 2.9,
+            "should_score_1": true,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "score - 1 + ",
+            "should_lost_1": true,
+            "should_lost_1.5": true,
+            "prediction_lost": "lost 1.5 +",
+            "last_score_by_host_game": 2,
+            "under_last_score_by_guest_game": 2,
+            "last_score_by_guest_game": 1
+          }
+        },
+        "total_predict": {
+          "host_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 5,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 2,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 4,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 6
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "КардиффСити-ШеффилдЮнайтед",
+        "date": "21.12, 18:00",
+        "host_position": "21",
+        "guest_position": "1"
+      },
+      "commands": {
+        "host": "КардиффСити",
+        "guest": "ШеффилдЮнайтед",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.1,
+            "host_total_game_lost": 1.4,
+            "host_guest_total_score": 0.8,
+            "host_guest_total_lost": 1.8,
+            "host_total_efficiency": 0.7857142857142857,
+            "host_total_all_efficiency": 0.59375,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 2,
+            "under_last_score_by_host_game": 0,
+            "last_score_by_host_game": 0
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 1.2,
+            "guest_total_lost": 0.7,
+            "guest_total_host_score": 1.6,
+            "guest_total_host_lost": 0.2,
+            "guest_total_efficiency": 1.7142857142857142,
+            "guest_total_all_efficiency": 7.0,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": false,
+            "should_lost_1.5": false,
+            "last_score_by_host_game": 2,
+            "under_last_score_by_guest_game": 2,
+            "last_score_by_guest_game": 1
+          }
+        },
+        "total_predict": {
+          "guest_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": true,
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 5,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "en-b",
+      "game": {
+        "game": "ВестБромвич-БристольСити",
+        "date": "22.12, 18:00",
+        "host_position": "8",
+        "guest_position": "11"
+      },
+      "commands": {
+        "host": "ВестБромвич",
+        "guest": "БристольСити",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 0.8,
+            "host_total_game_lost": 0.5,
+            "host_guest_total_score": 1.4545454545454546,
+            "host_guest_total_lost": 1.0,
+            "host_total_efficiency": 1.6,
+            "host_total_all_efficiency": 1.5,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": false,
+            "should_lost_1.5": false,
+            "prediction_lost": "not lost",
+            "last_score_by_guest_game": 1,
+            "under_last_score_by_host_game": 2,
+            "last_score_by_host_game": 2
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 1.0909090909090908,
+            "guest_total_lost": 1.4545454545454546,
+            "guest_total_host_score": 1.4,
+            "guest_total_host_lost": 1.0,
+            "guest_total_efficiency": 0.75,
+            "guest_total_all_efficiency": 1.3,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 1,
+            "under_last_score_by_guest_game": 0,
+            "last_score_by_guest_game": 1
+          }
+        },
+        "total_predict": {
+          "host_score_one": "not-recommended",
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 3,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          }
+        ]
+      }
+    }
+  ]
+}
