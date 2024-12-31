@@ -172,7 +172,7 @@
           }
         },
         "total_predict": {
-          "host_score_one": "not-recommended",
+          "host_score_one": true,
           "host_score_2": "not-recommended",
           "both_score": "not-recommended",
           "host_lower_two_risk": "not-recommended",
@@ -536,7 +536,7 @@
           }
         },
         "total_predict": {
-          "host_score_one": "not-recommended",
+          "host_score_one": true,
           "host_score_2": "not-recommended",
           "both_score": "not-recommended",
           "guest_lower_two_risk": true,
@@ -904,7 +904,7 @@
           }
         },
         "total_predict": {
-          "host_score_one": "not-recommended",
+          "host_score_one": true,
           "host_score_2": "not-recommended",
           "both_score": "not-recommended",
           "host_lower_two_risk": "not-recommended",
@@ -963,126 +963,6 @@
           },
           {
             "score": 2,
-            "un_score": 0
-          }
-        ]
-      }
-    },
-    {
-      "league_name": "fr-b",
-      "game": {
-        "game": "Лаваль-Лорьян",
-        "date": "04.01.25, 22:00",
-        "host_position": "6",
-        "guest_position": "1"
-      },
-      "commands": {
-        "host": "Лаваль",
-        "guest": "Лорьян",
-        "host_analytics_data": {
-          "host_data": {
-            "host_total_games_score": 1.6666666666666667,
-            "host_total_game_lost": 1.1666666666666667,
-            "host_guest_total_score": 1.5555555555555556,
-            "host_guest_total_lost": 0.8888888888888888,
-            "host_total_efficiency": 1.4285714285714286,
-            "host_total_all_efficiency": 1.6,
-            "should_score_1": true,
-            "should_score_1.5": false,
-            "should_score_2": false,
-            "prediction_score": "score - 1 + ",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_guest_game": 3,
-            "under_last_score_by_host_game": 2,
-            "last_score_by_host_game": 1
-          }
-        },
-        "guest_analytics_data": {
-          "guest_data": {
-            "guest_total_score": 1.0,
-            "guest_total_lost": 1.125,
-            "guest_total_host_score": 2.5714285714285716,
-            "guest_total_host_lost": 0.5714285714285714,
-            "guest_total_efficiency": 0.8888888888888888,
-            "guest_total_all_efficiency": 3.25,
-            "should_score_1": false,
-            "should_score_1.5": false,
-            "should_score_2": false,
-            "prediction_score": "not_score",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_host_game": 2,
-            "under_last_score_by_guest_game": 1,
-            "last_score_by_guest_game": 0
-          }
-        },
-        "total_predict": {
-          "host_score_one": true,
-          "host_score_2": "not-recommended",
-          "both_score": "not-recommended",
-          "host_lower_two_risk": "not-recommended",
-          "both_score_last": "not-recommended"
-        },
-        "history_host": [
-          {
-            "score": 0,
-            "un_score": 1
-          },
-          {
-            "score": 1,
-            "un_score": 1
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 3,
-            "un_score": 2
-          },
-          {
-            "score": 2,
-            "un_score": 2
-          },
-          {
-            "score": 1,
-            "un_score": 0
-          }
-        ],
-        "history_guest": [
-          {
-            "score": 0,
-            "un_score": 1
-          },
-          {
-            "score": 1,
-            "un_score": 0
-          },
-          {
-            "score": 1,
-            "un_score": 1
-          },
-          {
-            "score": 1,
-            "un_score": 0
-          },
-          {
-            "score": 1,
-            "un_score": 2
-          },
-          {
-            "score": 3,
-            "un_score": 3
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          },
-          {
-            "score": 0,
             "un_score": 0
           }
         ]
