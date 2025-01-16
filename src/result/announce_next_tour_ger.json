@@ -3,22 +3,22 @@
     {
       "league_name": "ger",
       "game": {
-        "game": "Боруссия Дортмунд - Байер",
-        "date": "2025-01-10T22:30:00+03:00",
-        "host_position": "6",
-        "guest_position": "2"
+        "game": "Айнтрахт Франкфурт - Боруссия Дортмунд",
+        "date": "2025-01-17T22:30:00+03:00",
+        "host_position": "3",
+        "guest_position": "10"
       },
       "commands": {
-        "host": "Боруссия Дортмунд",
-        "guest": "Байер",
+        "host": "Айнтрахт Франкфурт",
+        "guest": "Боруссия Дортмунд",
         "host_analytics_data": {
           "host_data": {
-            "host_total_games_score": 2.5,
-            "host_total_game_lost": 1.0,
-            "host_guest_total_score": 1.1428571428571428,
-            "host_guest_total_lost": 2.0,
-            "host_total_efficiency": 2.5,
-            "host_total_all_efficiency": 1.2727272727272727,
+            "host_total_games_score": 2.875,
+            "host_total_game_lost": 1.5,
+            "host_guest_total_score": 1.8888888888888888,
+            "host_guest_total_lost": 1.3333333333333333,
+            "host_total_efficiency": 1.9166666666666667,
+            "host_total_all_efficiency": 1.6666666666666667,
             "should_score_1": true,
             "should_score_1.5": true,
             "should_score_2": true,
@@ -26,19 +26,284 @@
             "should_lost_1": true,
             "should_lost_1.5": false,
             "prediction_lost": "lost 1",
-            "last_score_by_guest_game": 3,
+            "last_score_by_guest_game": 1,
             "under_last_score_by_host_game": 1,
-            "last_score_by_host_game": 1
+            "last_score_by_host_game": 4
           }
         },
         "guest_analytics_data": {
           "guest_data": {
-            "guest_total_score": 2.142857142857143,
-            "guest_total_lost": 1.1428571428571428,
-            "guest_total_host_score": 2.75,
-            "guest_total_host_lost": 1.625,
-            "guest_total_efficiency": 1.875,
-            "guest_total_all_efficiency": 1.4230769230769231,
+            "guest_total_score": 1.25,
+            "guest_total_lost": 2.25,
+            "guest_total_host_score": 2.4444444444444446,
+            "guest_total_host_lost": 1.2222222222222223,
+            "guest_total_efficiency": 0.5555555555555556,
+            "guest_total_all_efficiency": 1.4545454545454546,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": true,
+            "prediction_lost": "lost 1.5 +",
+            "last_score_by_host_game": 2,
+            "under_last_score_by_guest_game": 3,
+            "last_score_by_guest_game": 2
+          }
+        },
+        "total_predict": {
+          "host_score_one": true,
+          "host_score_2": true,
+          "host_score_2_risk": true,
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 3
+          },
+          {
+            "score": 7,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 4,
+            "un_score": 1
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 5,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 4,
+            "un_score": 2
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "ger",
+      "game": {
+        "game": "Штутгарт - Фрайбург",
+        "date": "2025-01-18T17:30:00+03:00",
+        "host_position": "5",
+        "guest_position": "8"
+      },
+      "commands": {
+        "host": "Штутгарт",
+        "guest": "Фрайбург",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 2.2222222222222223,
+            "host_total_game_lost": 1.4444444444444444,
+            "host_guest_total_score": 1.625,
+            "host_guest_total_lost": 1.625,
+            "host_total_efficiency": 1.5384615384615385,
+            "host_total_all_efficiency": 1.2692307692307692,
+            "should_score_1": true,
+            "should_score_1.5": true,
+            "should_score_2": true,
+            "prediction_score": "total - 1.5 +",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 2,
+            "under_last_score_by_host_game": 0,
+            "last_score_by_host_game": 2
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 0.8888888888888888,
+            "guest_total_lost": 2.111111111111111,
+            "guest_total_host_score": 2.125,
+            "guest_total_host_lost": 1.125,
+            "guest_total_efficiency": 0.42105263157894735,
+            "guest_total_all_efficiency": 1.3888888888888888,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": true,
+            "prediction_lost": "lost 1.5 +",
+            "last_score_by_host_game": 3,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 1
+          }
+        },
+        "total_predict": {
+          "host_score_one": true,
+          "host_score_2": true,
+          "both_score_risk": true,
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 5,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 3
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 3,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 0,
+            "un_score": 3
+          },
+          {
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 4,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 5,
+            "un_score": 1
+          },
+          {
+            "score": 4,
+            "un_score": 1
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "ger",
+      "game": {
+        "game": "Бавария - Вольфсбург",
+        "date": "2025-01-18T17:30:00+03:00",
+        "host_position": "1",
+        "guest_position": "7"
+      },
+      "commands": {
+        "host": "Бавария",
+        "guest": "Вольфсбург",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 3.375,
+            "host_total_game_lost": 0.5,
+            "host_guest_total_score": 2.888888888888889,
+            "host_guest_total_lost": 1.0,
+            "host_total_efficiency": 6.75,
+            "host_total_all_efficiency": 4.076923076923077,
+            "should_score_1": true,
+            "should_score_1.5": true,
+            "should_score_2": true,
+            "prediction_score": "total - 1.5 +",
+            "should_lost_1": false,
+            "should_lost_1.5": false,
+            "prediction_lost": "not lost",
+            "last_score_by_guest_game": 1,
+            "under_last_score_by_host_game": 5,
+            "last_score_by_host_game": 5
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 2.25,
+            "guest_total_lost": 1.25,
+            "guest_total_host_score": 2.111111111111111,
+            "guest_total_host_lost": 2.111111111111111,
+            "guest_total_efficiency": 1.8,
+            "guest_total_all_efficiency": 0.9736842105263158,
             "should_score_1": true,
             "should_score_1.5": true,
             "should_score_2": true,
@@ -48,172 +313,48 @@
             "prediction_lost": "lost 1",
             "last_score_by_host_game": 5,
             "under_last_score_by_guest_game": 2,
-            "last_score_by_guest_game": 2
+            "last_score_by_guest_game": 0
           }
         },
         "total_predict": {
           "host_score_one": true,
-          "host_score_2": "not-recommended",
-          "both_score_strong": true,
+          "host_score_2": true,
+          "both_score": "not-recommended",
           "host_lower_two_risk": "not-recommended",
           "both_score_last": "not-recommended"
         },
         "history_host": [
           {
-            "score": 4,
-            "un_score": 2
-          },
-          {
-            "score": 4,
-            "un_score": 2
+            "score": 1,
+            "un_score": 1
           },
           {
             "score": 2,
             "un_score": 0
           },
           {
-            "score": 2,
-            "un_score": 1
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          },
-          {
             "score": 4,
             "un_score": 0
           },
           {
-            "score": 1,
-            "un_score": 1
-          },
-          {
-            "score": 1,
-            "un_score": 1
-          }
-        ],
-        "history_guest": [
-          {
-            "score": 1,
-            "un_score": 1
-          },
-          {
-            "score": 1,
-            "un_score": 4
-          },
-          {
-            "score": 2,
-            "un_score": 3
-          },
-          {
-            "score": 2,
-            "un_score": 2
-          },
-          {
-            "score": 1,
-            "un_score": 1
-          },
-          {
-            "score": 1,
-            "un_score": 2
-          },
-          {
-            "score": 0,
-            "un_score": 2
-          }
-        ]
-      }
-    },
-    {
-      "league_name": "ger",
-      "game": {
-        "game": "Хоффенхайм - Вольфсбург",
-        "date": "2025-01-11T17:30:00+03:00",
-        "host_position": "15",
-        "guest_position": "11"
-      },
-      "commands": {
-        "host": "Хоффенхайм",
-        "guest": "Вольфсбург",
-        "host_analytics_data": {
-          "host_data": {
-            "host_total_games_score": 2.0,
-            "host_total_game_lost": 2.375,
-            "host_guest_total_score": 0.5714285714285714,
-            "host_guest_total_lost": 1.2857142857142858,
-            "host_total_efficiency": 0.8421052631578947,
-            "host_total_all_efficiency": 0.7142857142857143,
-            "should_score_1": true,
-            "should_score_1.5": true,
-            "should_score_2": true,
-            "prediction_score": "total - 1.5 +",
-            "should_lost_1": true,
-            "should_lost_1.5": true,
-            "prediction_lost": "lost 1.5 +",
-            "last_score_by_guest_game": 1,
-            "under_last_score_by_host_game": 1,
-            "last_score_by_host_game": 1
-          }
-        },
-        "guest_analytics_data": {
-          "guest_data": {
-            "guest_total_score": 2.5714285714285716,
-            "guest_total_lost": 1.4285714285714286,
-            "guest_total_host_score": 1.75,
-            "guest_total_host_lost": 2.25,
-            "guest_total_efficiency": 1.8,
-            "guest_total_all_efficiency": 0.8888888888888888,
-            "should_score_1": true,
-            "should_score_1.5": true,
-            "should_score_2": true,
-            "prediction_score": "total - 1.5 +",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_host_game": 1,
-            "under_last_score_by_guest_game": 5,
-            "last_score_by_guest_game": 2
-          }
-        },
-        "total_predict": {
-          "host_score_one": true,
-          "guest_score_2_risk": true,
-          "both_score_strong": true,
-          "host_lower_two_risk": "not-recommended",
-          "both_score_last": "not-recommended"
-        },
-        "history_host": [
-          {
             "score": 3,
-            "un_score": 4
-          },
-          {
-            "score": 1,
-            "un_score": 4
+            "un_score": 0
           },
           {
             "score": 3,
-            "un_score": 2
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 0,
-            "un_score": 2
+            "un_score": 0
           },
           {
             "score": 4,
-            "un_score": 3
+            "un_score": 2
           },
           {
-            "score": 1,
+            "score": 5,
             "un_score": 1
           },
           {
-            "score": 1,
-            "un_score": 2
+            "score": 5,
+            "un_score": 0
           }
         ],
         "history_guest": [
@@ -244,6 +385,10 @@
           {
             "score": 3,
             "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 0
           }
         ]
       }
@@ -251,22 +396,22 @@
     {
       "league_name": "ger",
       "game": {
-        "game": "Хайденхайм - Унион Берлин",
-        "date": "2025-01-11T17:30:00+03:00",
-        "host_position": "16",
-        "guest_position": "12"
+        "game": "Хайденхайм - Санкт-Паули",
+        "date": "2025-01-18T17:30:00+03:00",
+        "host_position": "15",
+        "guest_position": "14"
       },
       "commands": {
         "host": "Хайденхайм",
-        "guest": "Унион Берлин",
+        "guest": "Санкт-Паули",
         "host_analytics_data": {
           "host_data": {
-            "host_total_games_score": 0.8571428571428571,
+            "host_total_games_score": 1.0,
             "host_total_game_lost": 2.0,
-            "host_guest_total_score": 1.5,
-            "host_guest_total_lost": 2.375,
-            "host_total_efficiency": 0.42857142857142855,
-            "host_total_all_efficiency": 0.5454545454545454,
+            "host_guest_total_score": 1.6666666666666667,
+            "host_guest_total_lost": 2.4444444444444446,
+            "host_total_efficiency": 0.5,
+            "host_total_all_efficiency": 0.6052631578947368,
             "should_score_1": false,
             "should_score_1.5": false,
             "should_score_2": false,
@@ -274,19 +419,19 @@
             "should_lost_1": true,
             "should_lost_1.5": true,
             "prediction_lost": "lost 1.5 +",
-            "last_score_by_guest_game": 0,
-            "under_last_score_by_host_game": 0,
-            "last_score_by_host_game": 1
+            "last_score_by_guest_game": 3,
+            "under_last_score_by_host_game": 1,
+            "last_score_by_host_game": 2
           }
         },
         "guest_analytics_data": {
           "guest_data": {
-            "guest_total_score": 0.75,
-            "guest_total_lost": 1.625,
-            "guest_total_host_score": 1.1428571428571428,
-            "guest_total_host_lost": 0.8571428571428571,
-            "guest_total_efficiency": 0.46153846153846156,
-            "guest_total_all_efficiency": 1.1666666666666667,
+            "guest_total_score": 1.0,
+            "guest_total_lost": 1.2222222222222223,
+            "guest_total_host_score": 0.375,
+            "guest_total_host_lost": 1.25,
+            "guest_total_efficiency": 0.8181818181818182,
+            "guest_total_all_efficiency": 0.6,
             "should_score_1": false,
             "should_score_1.5": false,
             "should_score_2": false,
@@ -294,9 +439,9 @@
             "should_lost_1": true,
             "should_lost_1.5": false,
             "prediction_lost": "lost 1",
-            "last_score_by_host_game": 1,
-            "under_last_score_by_guest_game": 2,
-            "last_score_by_guest_game": 1
+            "last_score_by_host_game": 0,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 0
           }
         },
         "total_predict": {
@@ -334,19 +479,27 @@
           {
             "score": 1,
             "un_score": 3
+          },
+          {
+            "score": 2,
+            "un_score": 2
           }
         ],
         "history_guest": [
           {
-            "score": 1,
-            "un_score": 0
-          },
-          {
             "score": 0,
-            "un_score": 0
+            "un_score": 3
+          },
+          {
+            "score": 3,
+            "un_score": 1
           },
           {
             "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
             "un_score": 1
           },
           {
@@ -354,19 +507,151 @@
             "un_score": 2
           },
           {
-            "score": 3,
+            "score": 2,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "ger",
+      "game": {
+        "game": "Бохум - РБ Лейпциг",
+        "date": "2025-01-18T17:30:00+03:00",
+        "host_position": "18",
+        "guest_position": "4"
+      },
+      "commands": {
+        "host": "Бохум",
+        "guest": "РБ Лейпциг",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 0.875,
+            "host_total_game_lost": 1.75,
+            "host_guest_total_score": 0.7777777777777778,
+            "host_guest_total_lost": 2.5555555555555554,
+            "host_total_efficiency": 0.5,
+            "host_total_all_efficiency": 0.3783783783783784,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 0,
+            "under_last_score_by_host_game": 2,
+            "last_score_by_host_game": 1
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 1.5555555555555556,
+            "guest_total_lost": 1.6666666666666667,
+            "guest_total_host_score": 1.875,
+            "guest_total_host_lost": 1.0,
+            "guest_total_efficiency": 0.9333333333333333,
+            "guest_total_all_efficiency": 1.8125,
+            "should_score_1": true,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "score - 1 + ",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 4,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 1
+          }
+        },
+        "total_predict": {
+          "guest_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": true,
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 5
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 2,
             "un_score": 0
           },
           {
             "score": 1,
             "un_score": 0
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 0,
+            "un_score": 0
           },
           {
-            "score": 3,
+            "score": 2,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 0,
             "un_score": 2
           },
           {
+            "score": 2,
+            "un_score": 1
+          },
+          {
             "score": 4,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 5,
+            "un_score": 1
+          },
+          {
+            "score": 2,
             "un_score": 1
           }
         ]
@@ -375,42 +660,22 @@
     {
       "league_name": "ger",
       "game": {
-        "game": "Фрайбург - Хольштайн Киль",
-        "date": "2025-01-11T17:30:00+03:00",
-        "host_position": "9",
-        "guest_position": "17"
+        "game": "Хольштайн Киль - Хоффенхайм",
+        "date": "2025-01-18T17:30:00+03:00",
+        "host_position": "17",
+        "guest_position": "16"
       },
       "commands": {
-        "host": "Фрайбург",
-        "guest": "Хольштайн Киль",
+        "host": "Хольштайн Киль",
+        "guest": "Хоффенхайм",
         "host_analytics_data": {
           "host_data": {
-            "host_total_games_score": 2.0,
-            "host_total_game_lost": 1.2857142857142858,
-            "host_guest_total_score": 0.875,
-            "host_guest_total_lost": 1.875,
-            "host_total_efficiency": 1.5555555555555556,
-            "host_total_all_efficiency": 0.875,
-            "should_score_1": true,
-            "should_score_1.5": true,
-            "should_score_2": true,
-            "prediction_score": "total - 1.5 +",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_guest_game": 1,
-            "under_last_score_by_host_game": 3,
-            "last_score_by_host_game": 3
-          }
-        },
-        "guest_analytics_data": {
-          "guest_data": {
-            "guest_total_score": 1.4285714285714286,
-            "guest_total_lost": 2.5714285714285716,
-            "guest_total_host_score": 1.125,
-            "guest_total_host_lost": 2.5,
-            "guest_total_efficiency": 0.5555555555555556,
-            "guest_total_all_efficiency": 0.475,
+            "host_total_games_score": 1.4444444444444444,
+            "host_total_game_lost": 2.4444444444444446,
+            "host_guest_total_score": 1.25,
+            "host_guest_total_lost": 2.625,
+            "host_total_efficiency": 0.5909090909090909,
+            "host_total_all_efficiency": 0.5348837209302325,
             "should_score_1": true,
             "should_score_1.5": false,
             "should_score_2": false,
@@ -418,129 +683,29 @@
             "should_lost_1": true,
             "should_lost_1.5": true,
             "prediction_lost": "lost 1.5 +",
-            "last_score_by_host_game": 5,
-            "under_last_score_by_guest_game": 1,
-            "last_score_by_guest_game": 1
-          }
-        },
-        "total_predict": {
-          "host_score_one": true,
-          "host_score_2_risk": true,
-          "both_score": "not-recommended",
-          "host_lower_two_risk": "not-recommended",
-          "both_score_last": "not-recommended"
-        },
-        "history_host": [
-          {
-            "score": 0,
-            "un_score": 3
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 0,
-            "un_score": 0
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 3,
-            "un_score": 2
-          }
-        ],
-        "history_guest": [
-          {
-            "score": 2,
-            "un_score": 2
-          },
-          {
-            "score": 3,
-            "un_score": 2
-          },
-          {
-            "score": 2,
-            "un_score": 2
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 4,
-            "un_score": 1
-          }
-        ]
-      }
-    },
-    {
-      "league_name": "ger",
-      "game": {
-        "game": "Майнц - Бохум",
-        "date": "2025-01-11T17:30:00+03:00",
-        "host_position": "5",
-        "guest_position": "18"
-      },
-      "commands": {
-        "host": "Майнц",
-        "guest": "Бохум",
-        "host_analytics_data": {
-          "host_data": {
-            "host_total_games_score": 1.25,
-            "host_total_game_lost": 1.25,
-            "host_guest_total_score": 2.5714285714285716,
-            "host_guest_total_lost": 1.4285714285714286,
-            "host_total_efficiency": 1.0,
-            "host_total_all_efficiency": 1.4,
-            "should_score_1": true,
-            "should_score_1.5": false,
-            "should_score_2": false,
-            "prediction_score": "score - 1 -",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_guest_game": 3,
-            "under_last_score_by_host_game": 2,
-            "last_score_by_host_game": 2
+            "last_score_by_guest_game": 0,
+            "under_last_score_by_host_game": 5,
+            "last_score_by_host_game": 4
           }
         },
         "guest_analytics_data": {
           "guest_data": {
-            "guest_total_score": 0.875,
-            "guest_total_lost": 2.625,
-            "guest_total_host_score": 0.8571428571428571,
-            "guest_total_host_lost": 2.0,
-            "guest_total_efficiency": 0.3333333333333333,
-            "guest_total_all_efficiency": 0.4642857142857143,
+            "guest_total_score": 0.5,
+            "guest_total_lost": 1.75,
+            "guest_total_host_score": 1.7777777777777777,
+            "guest_total_host_lost": 2.111111111111111,
+            "guest_total_efficiency": 0.2857142857142857,
+            "guest_total_all_efficiency": 0.5263157894736842,
             "should_score_1": false,
             "should_score_1.5": false,
             "should_score_2": false,
             "prediction_score": "not_score",
             "should_lost_1": true,
-            "should_lost_1.5": true,
-            "prediction_lost": "lost 1.5 +",
-            "last_score_by_host_game": 2,
-            "under_last_score_by_guest_game": 0,
-            "last_score_by_guest_game": 1
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 0,
+            "under_last_score_by_guest_game": 1,
+            "last_score_by_guest_game": 0
           }
         },
         "total_predict": {
@@ -552,58 +717,62 @@
         },
         "history_host": [
           {
-            "score": 0,
-            "un_score": 2
-          },
-          {
-            "score": 1,
-            "un_score": 2
-          },
-          {
-            "score": 1,
-            "un_score": 1
-          },
-          {
-            "score": 0,
-            "un_score": 2
-          },
-          {
-            "score": 1,
-            "un_score": 1
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
             "score": 2,
+            "un_score": 4
+          },
+          {
+            "score": 1,
+            "un_score": 6
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 1,
             "un_score": 0
           },
           {
-            "score": 2,
+            "score": 0,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          },
+          {
+            "score": 5,
             "un_score": 1
+          },
+          {
+            "score": 4,
+            "un_score": 2
           }
         ],
         "history_guest": [
           {
-            "score": 4,
-            "un_score": 2
-          },
-          {
             "score": 2,
             "un_score": 1
-          },
-          {
-            "score": 1,
-            "un_score": 0
           },
           {
             "score": 3,
             "un_score": 1
           },
           {
-            "score": 7,
-            "un_score": 2
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 0
           },
           {
             "score": 2,
@@ -611,11 +780,11 @@
           },
           {
             "score": 1,
-            "un_score": 0
+            "un_score": 1
           },
           {
-            "score": 1,
-            "un_score": 1
+            "score": 5,
+            "un_score": 0
           }
         ]
       }
@@ -623,22 +792,42 @@
     {
       "league_name": "ger",
       "game": {
-        "game": "Санкт-Паули - Айнтрахт Франкфурт",
-        "date": "2025-01-11T17:30:00+03:00",
-        "host_position": "14",
-        "guest_position": "3"
+        "game": "Байер - Боруссия Мёнхенгладбах",
+        "date": "2025-01-18T20:30:00+03:00",
+        "host_position": "2",
+        "guest_position": "11"
       },
       "commands": {
-        "host": "Санкт-Паули",
-        "guest": "Айнтрахт Франкфурт",
+        "host": "Байер",
+        "guest": "Боруссия Мёнхенгладбах",
         "host_analytics_data": {
           "host_data": {
-            "host_total_games_score": 0.42857142857142855,
-            "host_total_game_lost": 1.2857142857142858,
-            "host_guest_total_score": 1.125,
+            "host_total_games_score": 2.5555555555555554,
+            "host_total_game_lost": 1.4444444444444444,
+            "host_guest_total_score": 2.25,
             "host_guest_total_lost": 1.25,
-            "host_total_efficiency": 0.3333333333333333,
-            "host_total_all_efficiency": 0.631578947368421,
+            "host_total_efficiency": 1.7692307692307692,
+            "host_total_all_efficiency": 1.7826086956521738,
+            "should_score_1": true,
+            "should_score_1.5": true,
+            "should_score_2": true,
+            "prediction_score": "total - 1.5 +",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 3,
+            "under_last_score_by_host_game": 5,
+            "last_score_by_host_game": 1
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 1.0,
+            "guest_total_lost": 1.75,
+            "guest_total_host_score": 2.0,
+            "guest_total_host_lost": 1.3333333333333333,
+            "guest_total_efficiency": 0.5714285714285714,
+            "guest_total_all_efficiency": 1.0833333333333333,
             "should_score_1": false,
             "should_score_1.5": false,
             "should_score_2": false,
@@ -646,169 +835,22 @@
             "should_lost_1": true,
             "should_lost_1.5": false,
             "prediction_lost": "lost 1",
-            "last_score_by_guest_game": 1,
-            "under_last_score_by_host_game": 3,
-            "last_score_by_host_game": 0
-          }
-        },
-        "guest_analytics_data": {
-          "guest_data": {
-            "guest_total_score": 2.0,
-            "guest_total_lost": 1.5,
-            "guest_total_host_score": 2.7142857142857144,
-            "guest_total_host_lost": 1.5714285714285714,
-            "guest_total_efficiency": 1.3333333333333333,
-            "guest_total_all_efficiency": 1.5909090909090908,
-            "should_score_1": true,
-            "should_score_1.5": true,
-            "should_score_2": true,
-            "prediction_score": "total - 1.5 +",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_host_game": 1,
-            "under_last_score_by_guest_game": 4,
-            "last_score_by_guest_game": 1
-          }
-        },
-        "total_predict": {
-          "guest_score_one": true,
-          "guest_score_2": true,
-          "both_score": "not-recommended",
-          "host_lower_two_risk": true,
-          "both_score_last": "not-recommended"
-        },
-        "history_host": [
-          {
-            "score": 0,
-            "un_score": 0
-          },
-          {
-            "score": 0,
-            "un_score": 2
-          },
-          {
-            "score": 0,
-            "un_score": 3
-          },
-          {
-            "score": 0,
-            "un_score": 0
-          },
-          {
-            "score": 0,
-            "un_score": 1
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 0,
-            "un_score": 2
-          }
-        ],
-        "history_guest": [
-          {
-            "score": 2,
-            "un_score": 4
-          },
-          {
-            "score": 1,
-            "un_score": 2
-          },
-          {
-            "score": 2,
-            "un_score": 0
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          },
-          {
-            "score": 1,
-            "un_score": 1
-          },
-          {
-            "score": 2,
-            "un_score": 3
-          },
-          {
-            "score": 0,
-            "un_score": 4
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          }
-        ]
-      }
-    },
-    {
-      "league_name": "ger",
-      "game": {
-        "game": "Боруссия Мёнхенгладбах - Бавария",
-        "date": "2025-01-11T20:30:00+03:00",
-        "host_position": "8",
-        "guest_position": "1"
-      },
-      "commands": {
-        "host": "Боруссия Мёнхенгладбах",
-        "guest": "Бавария",
-        "host_analytics_data": {
-          "host_data": {
-            "host_total_games_score": 2.25,
-            "host_total_game_lost": 1.375,
-            "host_guest_total_score": 1.0,
-            "host_guest_total_lost": 1.2857142857142858,
-            "host_total_efficiency": 1.6363636363636365,
-            "host_total_all_efficiency": 1.25,
-            "should_score_1": true,
-            "should_score_1.5": true,
-            "should_score_2": true,
-            "prediction_score": "total - 1.5 +",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_guest_game": 2,
-            "under_last_score_by_host_game": 1,
-            "last_score_by_host_game": 4
-          }
-        },
-        "guest_analytics_data": {
-          "guest_data": {
-            "guest_total_score": 3.125,
-            "guest_total_lost": 1.125,
-            "guest_total_host_score": 3.142857142857143,
-            "guest_total_host_lost": 0.5714285714285714,
-            "guest_total_efficiency": 2.7777777777777777,
-            "guest_total_all_efficiency": 5.875,
-            "should_score_1": true,
-            "should_score_1.5": true,
-            "should_score_2": true,
-            "prediction_score": "total - 1.5 +",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_host_game": 5,
-            "under_last_score_by_guest_game": 1,
+            "last_score_by_host_game": 0,
+            "under_last_score_by_guest_game": 2,
             "last_score_by_guest_game": 1
           }
         },
         "total_predict": {
           "host_score_one": true,
-          "guest_score_2_risk": true,
-          "both_score_risk": true,
-          "host_lower_two_risk": "not-recommended",
+          "host_score_2": true,
+          "host_score_2_risk": true,
+          "both_score": "not-recommended",
+          "guest_lower_two_risk": true,
           "both_score_last": "not-recommended"
         },
         "history_host": [
           {
-            "score": 1,
-            "un_score": 0
-          },
-          {
-            "score": 1,
+            "score": 4,
             "un_score": 3
           },
           {
@@ -816,57 +858,65 @@
             "un_score": 3
           },
           {
-            "score": 3,
+            "score": 2,
             "un_score": 2
           },
           {
-            "score": 4,
+            "score": 2,
             "un_score": 1
           },
           {
-            "score": 2,
+            "score": 0,
             "un_score": 0
           },
           {
-            "score": 1,
+            "score": 5,
+            "un_score": 2
+          },
+          {
+            "score": 2,
             "un_score": 1
           },
           {
-            "score": 4,
+            "score": 5,
             "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
           }
         ],
         "history_guest": [
           {
-            "score": 0,
-            "un_score": 5
+            "score": 2,
+            "un_score": 0
           },
           {
-            "score": 1,
-            "un_score": 6
+            "score": 0,
+            "un_score": 2
           },
           {
             "score": 2,
-            "un_score": 3
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
           },
           {
             "score": 3,
-            "un_score": 3
-          },
-          {
-            "score": 0,
-            "un_score": 5
-          },
-          {
-            "score": 0,
             "un_score": 1
           },
           {
             "score": 1,
-            "un_score": 1
+            "un_score": 2
           },
           {
-            "score": 2,
+            "score": 5,
             "un_score": 1
           }
         ]
@@ -875,22 +925,150 @@
     {
       "league_name": "ger",
       "game": {
-        "game": "РБ Лейпциг - Вердер",
-        "date": "2025-01-12T17:30:00+03:00",
-        "host_position": "4",
-        "guest_position": "7"
+        "game": "Унион Берлин - Майнц",
+        "date": "2025-01-19T17:30:00+03:00",
+        "host_position": "13",
+        "guest_position": "6"
       },
       "commands": {
-        "host": "РБ Лейпциг",
-        "guest": "Вердер",
+        "host": "Унион Берлин",
+        "guest": "Майнц",
         "host_analytics_data": {
           "host_data": {
-            "host_total_games_score": 1.5714285714285714,
+            "host_total_games_score": 1.0,
             "host_total_game_lost": 1.0,
-            "host_guest_total_score": 1.625,
-            "host_guest_total_lost": 1.625,
-            "host_total_efficiency": 1.5714285714285714,
-            "host_total_all_efficiency": 1.2,
+            "host_guest_total_score": 0.8888888888888888,
+            "host_guest_total_lost": 1.6666666666666667,
+            "host_total_efficiency": 1.0,
+            "host_total_all_efficiency": 0.6956521739130435,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_guest_game": 2,
+            "under_last_score_by_host_game": 1,
+            "last_score_by_host_game": 0
+          }
+        },
+        "guest_analytics_data": {
+          "guest_data": {
+            "guest_total_score": 2.25,
+            "guest_total_lost": 1.375,
+            "guest_total_host_score": 1.3333333333333333,
+            "guest_total_host_lost": 1.1111111111111112,
+            "guest_total_efficiency": 1.6363636363636365,
+            "guest_total_all_efficiency": 1.5,
+            "should_score_1": true,
+            "should_score_1.5": true,
+            "should_score_2": true,
+            "prediction_score": "total - 1.5 +",
+            "should_lost_1": true,
+            "should_lost_1.5": false,
+            "prediction_lost": "lost 1",
+            "last_score_by_host_game": 2,
+            "under_last_score_by_guest_game": 3,
+            "last_score_by_guest_game": 0
+          }
+        },
+        "total_predict": {
+          "guest_score_one": true,
+          "host_score_2": "not-recommended",
+          "both_score": "not-recommended",
+          "host_lower_two_risk": "not-recommended",
+          "both_score_last": "not-recommended"
+        },
+        "history_host": [
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          },
+          {
+            "score": 2,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 1,
+            "un_score": 2
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 2
+          }
+        ],
+        "history_guest": [
+          {
+            "score": 2,
+            "un_score": 3
+          },
+          {
+            "score": 3,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 3
+          },
+          {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 3
+          },
+          {
+            "score": 4,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 3
+          },
+          {
+            "score": 1,
+            "un_score": 0
+          }
+        ]
+      }
+    },
+    {
+      "league_name": "ger",
+      "game": {
+        "game": "Вердер - Аугсбург",
+        "date": "2025-01-19T19:30:00+03:00",
+        "host_position": "9",
+        "guest_position": "12"
+      },
+      "commands": {
+        "host": "Вердер",
+        "guest": "Аугсбург",
+        "host_analytics_data": {
+          "host_data": {
+            "host_total_games_score": 1.625,
+            "host_total_game_lost": 1.875,
+            "host_guest_total_score": 1.8888888888888888,
+            "host_guest_total_lost": 1.8888888888888888,
+            "host_total_efficiency": 0.8666666666666667,
+            "host_total_all_efficiency": 0.9375,
             "should_score_1": true,
             "should_score_1.5": false,
             "should_score_2": false,
@@ -899,26 +1077,26 @@
             "should_lost_1.5": false,
             "prediction_lost": "lost 1",
             "last_score_by_guest_game": 1,
-            "under_last_score_by_host_game": 1,
-            "last_score_by_host_game": 2
+            "under_last_score_by_host_game": 4,
+            "last_score_by_host_game": 3
           }
         },
         "guest_analytics_data": {
           "guest_data": {
-            "guest_total_score": 2.0,
-            "guest_total_lost": 1.625,
-            "guest_total_host_score": 1.4285714285714286,
-            "guest_total_host_lost": 1.7142857142857142,
-            "guest_total_efficiency": 1.2307692307692308,
-            "guest_total_all_efficiency": 1.0833333333333333,
-            "should_score_1": true,
-            "should_score_1.5": true,
-            "should_score_2": true,
-            "prediction_score": "total - 1.5 +",
+            "guest_total_score": 0.875,
+            "guest_total_lost": 2.75,
+            "guest_total_host_score": 1.3333333333333333,
+            "guest_total_host_lost": 1.3333333333333333,
+            "guest_total_efficiency": 0.3181818181818182,
+            "guest_total_all_efficiency": 0.7916666666666666,
+            "should_score_1": false,
+            "should_score_1.5": false,
+            "should_score_2": false,
+            "prediction_score": "not_score",
             "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_host_game": 4,
+            "should_lost_1.5": true,
+            "prediction_lost": "lost 1.5 +",
+            "last_score_by_host_game": 0,
             "under_last_score_by_guest_game": 1,
             "last_score_by_guest_game": 2
           }
@@ -926,187 +1104,63 @@
         "total_predict": {
           "host_score_one": true,
           "host_score_2": "not-recommended",
-          "both_score_risk": true,
+          "both_score": "not-recommended",
           "host_lower_two_risk": "not-recommended",
           "both_score_last": "not-recommended"
         },
         "history_host": [
           {
-            "score": 4,
-            "un_score": 0
-          },
-          {
             "score": 0,
-            "un_score": 0
-          },
-          {
-            "score": 1,
-            "un_score": 0
-          },
-          {
-            "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 0,
-            "un_score": 0
-          },
-          {
-            "score": 1,
             "un_score": 5
           },
           {
+            "score": 0,
+            "un_score": 0
+          },
+          {
+            "score": 0,
+            "un_score": 1
+          },
+          {
+            "score": 2,
+            "un_score": 2
+          },
+          {
             "score": 2,
             "un_score": 1
-          }
-        ],
-        "history_guest": [
-          {
-            "score": 3,
-            "un_score": 4
-          },
-          {
-            "score": 1,
-            "un_score": 2
           },
           {
             "score": 2,
             "un_score": 2
-          },
-          {
-            "score": 2,
-            "un_score": 4
           },
           {
             "score": 4,
             "un_score": 1
           },
           {
-            "score": 1,
-            "un_score": 0
-          },
-          {
-            "score": 0,
-            "un_score": 1
-          },
-          {
-            "score": 0,
-            "un_score": 2
-          }
-        ]
-      }
-    },
-    {
-      "league_name": "ger",
-      "game": {
-        "game": "Аугсбург - Штутгарт",
-        "date": "2025-01-12T19:30:00+03:00",
-        "host_position": "13",
-        "guest_position": "10"
-      },
-      "commands": {
-        "host": "Аугсбург",
-        "guest": "Штутгарт",
-        "host_analytics_data": {
-          "host_data": {
-            "host_total_games_score": 1.5,
-            "host_total_game_lost": 1.25,
-            "host_guest_total_score": 0.7142857142857143,
-            "host_guest_total_lost": 3.142857142857143,
-            "host_total_efficiency": 1.2,
-            "host_total_all_efficiency": 0.53125,
-            "should_score_1": true,
-            "should_score_1.5": false,
-            "should_score_2": false,
-            "prediction_score": "score - 1 + ",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_guest_game": 1,
-            "under_last_score_by_host_game": 1,
-            "last_score_by_host_game": 0
-          }
-        },
-        "guest_analytics_data": {
-          "guest_data": {
-            "guest_total_score": 1.5714285714285714,
-            "guest_total_lost": 1.8571428571428572,
-            "guest_total_host_score": 2.25,
-            "guest_total_host_lost": 1.5,
-            "guest_total_efficiency": 0.8461538461538461,
-            "guest_total_all_efficiency": 1.2083333333333333,
-            "should_score_1": true,
-            "should_score_1.5": false,
-            "should_score_2": false,
-            "prediction_score": "score - 1 + ",
-            "should_lost_1": true,
-            "should_lost_1.5": false,
-            "prediction_lost": "lost 1",
-            "last_score_by_host_game": 0,
-            "under_last_score_by_guest_game": 2,
-            "last_score_by_guest_game": 3
-          }
-        },
-        "total_predict": {
-          "host_score_one": true,
-          "host_score_2": "not-recommended",
-          "both_score": "not-recommended",
-          "host_lower_two_risk": "not-recommended",
-          "both_score_last": true
-        },
-        "history_host": [
-          {
-            "score": 2,
-            "un_score": 3
-          },
-          {
             "score": 3,
-            "un_score": 1
-          },
-          {
-            "score": 2,
-            "un_score": 2
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          },
-          {
-            "score": 2,
-            "un_score": 1
-          },
-          {
-            "score": 0,
-            "un_score": 0
-          },
-          {
-            "score": 1,
-            "un_score": 0
-          },
-          {
-            "score": 0,
-            "un_score": 2
+            "un_score": 3
           }
         ],
         "history_guest": [
           {
-            "score": 2,
-            "un_score": 2
-          },
-          {
-            "score": 1,
-            "un_score": 3
-          },
-          {
-            "score": 3,
-            "un_score": 1
+            "score": 4,
+            "un_score": 0
           },
           {
             "score": 4,
             "un_score": 0
           },
           {
-            "score": 0,
+            "score": 3,
+            "un_score": 1
+          },
+          {
+            "score": 1,
+            "un_score": 1
+          },
+          {
+            "score": 3,
             "un_score": 0
           },
           {
@@ -1114,8 +1168,12 @@
             "un_score": 2
           },
           {
-            "score": 1,
-            "un_score": 3
+            "score": 5,
+            "un_score": 1
+          },
+          {
+            "score": 0,
+            "un_score": 2
           }
         ]
       }
